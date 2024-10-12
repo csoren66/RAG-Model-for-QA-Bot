@@ -1,1 +1,1 @@
-# RAG-Model-for-QA-Bot
+# Retrieval-Augmented Generation (RAG) model for a Question Answering (QA) bot
